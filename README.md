@@ -1,2 +1,2 @@
 # Gau-pal
-pasupalan project
+pasupalan project(stepin)
